@@ -1,0 +1,11 @@
+prefix=C:/dev/USD/Release/v25.05.01
+exec_prefix=C:/dev/USD/Release/v25.05.01
+libdir=C:/dev/USD/Release/v25.05.01/lib
+includedir=C:/dev/USD/Release/v25.05.01/include
+
+Name: libtiff
+Description:  Tag Image File Format (TIFF) library.
+Version: 4.0.7
+Libs: -LC:/dev/USD/Release/v25.05.01/lib -ltiff
+Libs.private: 
+Cflags: -IC:/dev/USD/Release/v25.05.01/include

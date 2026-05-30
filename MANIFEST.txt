@@ -1,0 +1,5 @@
+OpenUSD SDK artifact: v25.05.01-msvc2022.1
+Source release root: C:\dev\third-party\usd\release\v25.05.01
+Source debug root:   C:\dev\third-party\usd\debug\v25.05.01
+Layout: release/ and debug/ SDK roots
+Generated: 2026-05-30T21:37:25Z
